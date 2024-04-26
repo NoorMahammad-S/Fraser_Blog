@@ -32,4 +32,3 @@ class CreatePostForm(FlaskForm):
 class CommentForm(FlaskForm):
     comment_text = CKEditorField("Blog Comment", validators=[DataRequired()])
     submit = SubmitField("Submit Comment")
-
