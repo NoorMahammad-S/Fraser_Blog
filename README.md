@@ -71,6 +71,3 @@ We welcome contributions to make this project even more awesome. Here's how you 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-Enjoy your blogging journey with Your Awesome Blog Website! Happy writing!
-```
